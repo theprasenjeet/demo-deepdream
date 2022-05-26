@@ -1,4 +1,4 @@
 tensorflow-cpu==2.7.0
-streamlit==1.4.0
-
+streamlit==1.9.0
+protobuf~=3.19.0
 click==8 
